@@ -1,7 +1,0 @@
-this is bs
-this is bs.com
-this is www.bs.com part of bs.com
-www.google.com
-nu.nl
-a long fqdn like aaa.bbb.ccc.ddd.example.com is also valid
-dont forget www.example.co.uk....
